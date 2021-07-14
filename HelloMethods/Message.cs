@@ -12,6 +12,10 @@
             {
                 return "Bonjour le monde";
             }
+            else if (lang.Equals("jp"))
+            {
+                return "Kon'nichiwa sekai";
+            }
             else
             {
                 return "Hello World";
